@@ -3,6 +3,10 @@ Android Animation Demo.
 
 Include rain and paper falling.
 
+Directions: 
+<a target="_blank" href="http://lizheblogs.com/all/code/2016/08/01/animation-code.html">
+http://lizheblogs.com/all/code/2016/08/01/animation-code.html</a></p>
+
 ## License
 
     Copyright 2016 Li Zhe <pulqueli@gmail.com>
